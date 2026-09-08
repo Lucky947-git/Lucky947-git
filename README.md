@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:8B0000&height=220&section=header&text=Lucky%20Diwakar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:8B0000&height=220&section=header&text=Lucky%20Diwakar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Lucky+%F0%9F%91%8B;CSE+Student+specializing+in+AI;Building+FastAPI+%2B+ML+powered+apps" alt="Typing SVG" />
 
@@ -23,7 +23,7 @@
 
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Coding Animation" />
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="Student Studying Animation" />
     </td>
   </tr>
 </table>
