@@ -8,9 +8,11 @@
 
 ---
 
-## 🧑‍💻 About Me
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Developer Coding Animation" />
+### 🧑‍💻 About Me
 
 - 🎓 Computer Science Engineering student **specializing in Artificial Intelligence**
 - 🚀 Exploring **full-stack development, AI applications, and modern web technologies**
@@ -18,6 +20,13 @@
 - 🌱 Leveling up in **MySQL, AWS, and Cloud Architecture**
 - 📍 Based in Ghaziabad, India
 - 💬 Ask me about Python, Machine Learning, FastAPI, or Web Development
+
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,13 +73,13 @@
 <div align="center">
 
 <a href="https://github.com/Lucky947-git/insurance-premium-prediction-fastapi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucky947-git&repo=insurance-premium-prediction-fastapi&theme=radical&border_color=8B0000" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Lucky947-git&repo=insurance-premium-prediction-fastapi&theme=radical&border_color=8B0000" />
 </a>
 <a href="https://github.com/Lucky947-git/Medfloww">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucky947-git&repo=Medfloww&theme=radical&border_color=8B0000" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Lucky947-git&repo=Medfloww&theme=radical&border_color=8B0000" />
 </a>
 <a href="https://github.com/Lucky947-git/Lucky-s-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucky947-git&repo=Lucky-s-Portfolio&theme=radical&border_color=8B0000" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Lucky947-git&repo=Lucky-s-Portfolio&theme=radical&border_color=8B0000" />
 </a>
 
 </div>
@@ -85,8 +94,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lucky947-git&show_icons=true&theme=radical&border_color=8B0000&hide_border=false" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky947-git&layout=compact&theme=radical&border_color=8B0000" width="48%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Lucky947-git&show_icons=true&theme=radical&border_color=8B0000&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lucky947-git&layout=compact&theme=radical&border_color=8B0000" width="48%"/>
 
 </div>
 
