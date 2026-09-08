@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:8B0000&height=220&section=header&text=Lucky%20Diwakar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Lucky+%F0%9F%91%8B;CSE+Student+specializing+in+AI;Building+FastAPI+%2B+ML+powered+apps;Exploring+GenAI+%26+Agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Lucky+%F0%9F%91%8B;CSE+Student+specializing+in+AI;Building+FastAPI+%2B+ML+powered+apps" alt="Typing SVG" />
 
 </div>
 
@@ -10,10 +10,12 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Developer Coding Animation" />
+
 - 🎓 Computer Science Engineering student **specializing in Artificial Intelligence**
 - 🚀 Exploring **full-stack development, AI applications, and modern web technologies**
 - 🤖 Currently building **Machine Learning + FastAPI powered APIs** and end-to-end ML pipelines
-- 🌱 Leveling up in **MySQL, AWS, and Agentic AI / GenAI**
+- 🌱 Leveling up in **MySQL, AWS, and Cloud Architecture**
 - 📍 Based in Ghaziabad, India
 - 💬 Ask me about Python, Machine Learning, FastAPI, or Web Development
 
@@ -84,9 +86,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Lucky947-git&show_icons=true&theme=radical&border_color=8B0000&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucky947-git&theme=radical&border=8B0000" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky947-git&layout=compact&theme=radical&border_color=8B0000" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky947-git&layout=compact&theme=radical&border_color=8B0000" width="48%"/>
 
 </div>
 
