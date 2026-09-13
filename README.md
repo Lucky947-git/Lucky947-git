@@ -17,7 +17,7 @@
 - 🎓 Computer Science Engineering student **specializing in Artificial Intelligence**
 - 🚀 Exploring **full-stack development, AI applications, and modern web technologies**
 - 🤖 Currently building **Machine Learning + FastAPI powered APIs** and end-to-end ML pipelines
-- 🌱 Leveling up in **MySQL, AWS, and Cloud Architecture**
+- 🌱 Leveling up in **MySQL, AWS, and Backend Architecture**
 - 📍 Based in Ghaziabad, India
 - 💬 Ask me about Python, Machine Learning, FastAPI, or Web Development
 
