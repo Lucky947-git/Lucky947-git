@@ -86,7 +86,7 @@
 
 - 🏥 **[Insurance Premium Prediction API](https://github.com/Lucky947-git/insurance-premium-prediction-fastapi)** — ML-powered REST API built with FastAPI + Scikit-learn, Pydantic validation, a Streamlit frontend, and Docker support.
 - 🩺 **[Medflow](https://github.com/Lucky947-git/Medfloww)** — Full-stack healthcare workflow app with a React frontend and a dedicated backend service, API endpoints tested and documented via a Postman collection.
-- 🎨 **[Developer Portfolio](https://github.com/Lucky947-git/Lucky-s-Portfolio)** — Dark, animated portfolio site built with vanilla HTML/CSS/JS featuring a particle background, typewriter effect, and scroll animations.
+- 🤖 **[RAG-BASED-DIGITAL-MENTOR](https://github.com/Lucky947-git/RAG-Based-Digital-Mentor)**
 
 ---
 
